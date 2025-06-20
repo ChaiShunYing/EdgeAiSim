@@ -4084,7 +4084,7 @@
                 "state": 0,
                 "_available": true,
                 "cpu_demand": 1,
-                "memory_demand": 2048,
+                "memory_demand": 64,
                 "image_digest": "sha256:a777c9c66ba177ccfea23f2a216ff6721e78a662cd17019488c417135299cd89"
             },
             "relationships": {
@@ -4101,8 +4101,8 @@
                 "label": "alpine",
                 "state": 0,
                 "_available": true,
-                "cpu_demand": 1,
-                "memory_demand": 2048,
+                "cpu_demand": 2,
+                "memory_demand": 128,
                 "image_digest": "sha256:a777c9c66ba177ccfea23f2a216ff6721e78a662cd17019488c417135299cd89"
             },
             "relationships": {
@@ -4119,8 +4119,8 @@
                 "label": "nginx",
                 "state": 0,
                 "_available": true,
-                "cpu_demand": 1,
-                "memory_demand": 2048,
+                "cpu_demand": 3,
+                "memory_demand": 256,
                 "image_digest": "sha256:83d487b625d8c7818044c04f1b48aabccd3f51c3341fc300926846bca0c439e6"
             },
             "relationships": {
@@ -4137,8 +4137,8 @@
                 "label": "nginx",
                 "state": 0,
                 "_available": true,
-                "cpu_demand": 1,
-                "memory_demand": 2048,
+                "cpu_demand": 4,
+                "memory_demand": 512,
                 "image_digest": "sha256:83d487b625d8c7818044c04f1b48aabccd3f51c3341fc300926846bca0c439e6"
             },
             "relationships": {
@@ -4155,8 +4155,8 @@
                 "label": "ubuntu",
                 "state": 0,
                 "_available": true,
-                "cpu_demand": 1,
-                "memory_demand": 2048,
+                "cpu_demand": 5,
+                "memory_demand": 1024,
                 "image_digest": "sha256:31cd7bbfd36421dfd338bceb36d803b3663c1bfa87dfe6af7ba764b5bf34de05"
             },
             "relationships": {
